@@ -1,0 +1,2466 @@
+## intent:affirm
+- Accept
+- Awesome!
+- Cool
+- Good
+- Great
+- I accept
+- I accept.
+- I agree
+- I am using it
+- I changed my mind. I want to accept it
+- I do
+- I get it
+- I guess so
+- I have used it in the past
+- I will
+- I'd absolutely love that
+- I'm sure I will!
+- I'm using it
+- Nice
+- OK
+- Ofcourse
+- Oh yes
+- Oh, ok
+- Ok
+- Ok let's start
+- Ok.
+- Okay
+- Okay!
+- PLEASE
+- SURE
+- Sure
+- Sweet
+- That would be great
+- YES
+- YUP
+- Yea
+- Yeah
+- Yeah sure
+- Yep
+- Yep that's fine
+- Yep!
+- Yepp
+- Yes
+- Yes I do
+- Yes please
+- Yes please!
+- Yes, I accept
+- Yes.
+- Yup
+- a little
+- absolutely
+- accept
+- accepted
+- agreed
+- ah ok
+- alright
+- alright, cool
+- amayzing
+- amazing!
+- awesome
+- awesome!
+- confirm
+- cool
+- cool :)
+- cool story bro
+- cool!
+- coolio
+- definitely yes without a doubt
+- done
+- fair enough
+- fcourse
+- fine
+- fuck yeah!
+- go
+- go ahead
+- go for it
+- going super well
+- good
+- good.
+- great
+- great lets do that
+- great!
+- hell yeah
+- hell yes
+- hm, i'd like that
+- how nice!
+- i accept
+- i agree
+- i am!
+- i want that
+- i will!
+- it is ok
+- its okay
+- ja
+- ja cool
+- ja thats great
+- jezz
+- jo
+- k
+- kk
+- lets do it
+- lets do this
+- nice
+- not bad
+- of course
+- ofcoure i do
+- ofcourse
+- oh awesome!
+- oh cool
+- oh good !!
+- oh super
+- ok
+- ok cool
+- ok fine
+- ok friend
+- ok good
+- ok great
+- ok i accept
+- ok sara
+- ok, I behave now
+- ok, I understood
+- ok, Sara
+- ok...
+- okay
+- okay cool
+- okay sure
+- okay..
+- oki doki
+- okie
+- ook
+- oui
+- perfect
+- please
+- si
+- sort of
+- sure
+- sure thing
+- sure!
+- that is cool
+- that ok
+- that sounds fine
+- that's great
+- thats fine
+- thats good
+- thats great
+- top
+- uh-huh
+- very much
+- well yes
+- y
+- ya
+- ya cool
+- ya go for it
+- ya i want
+- ya please
+- ya thats cool
+- yaah
+- yap
+- yaps
+- yas
+- yay
+- ye
+- ye splease
+- yea
+- yeah
+- yeah do that
+- yeah sure
+- yeah'=
+- yeah, why not
+- yeeeeezzzzz
+- yeeees
+- yep
+- yep i want that
+- yep if i have to
+- yep please
+- yep that's nice
+- yep thats cool
+- yep, will do thank you
+- yep. :/
+- yes
+- yes ...
+- yes I do
+- yes accept please
+- yes baby
+- yes cool
+- yes give me information
+- yes go ahead
+- yes go for it
+- yes great
+- yes i accept
+- yes i agree
+- yes i have built a bot before
+- yes i have!
+- yes it is
+- yes it was okay
+- yes of course
+- yes pleae
+- yes please
+- yes please!
+- yes pls
+- yes sirfr
+- yes that's great
+- yes that's what i want
+- yes you can
+- yes'
+- yes, I'd love to
+- yes, cool
+- yes, give me information, please
+- yes,i am
+- yes.
+- yesh
+- yess
+- yessoo
+- yesss
+- yesssss
+- yesyestyes
+- yesyesyes
+- yez
+- yop
+- you asked me a yes or no question, which i answered with yes
+- you got me, I accept, if you want me to
+- yres
+- ys
+- yup
+- yyeeeh
+
+
+## intent:ask_builder
+- By whom were you built?
+- Can I ask the name of the people who designed you?
+- Do you know who built you?
+- Do you know who made you?
+- May I ask who invented you?
+- Name the person who built you.
+- Tell me the name of the individual who created you.
+- Tell me the name of the person who built you.
+- Tell me the name of your creator.
+- Tell me who built you.
+- What is the name of your builder?
+- What person built you?
+- Who built you?
+- Who created and built you?
+- Who created you?
+- Who designed you?
+- Who developed and created you?
+- Who developed you?
+- Who fabricated you?
+- Who generated you?
+- Who is it that built you?
+- Who is responsible for making you?
+- Who is the builder of you?
+- Who is the legal owner of you?
+- Who is the name of your builder?
+- Who is the name of your creator?
+- Who is the person responsible for building you?
+- Who is the person that invented you?
+- Who is the person who built you?
+- Who is your creator?
+- Who is your programmer?
+- Who made you?
+- Who modeled you?
+- Who owns you?
+- Who produced you?
+- Who put you together?
+- Who thought to make you?
+- Who was the one that built you?
+- Who was the one who made you?
+- Who was the person that built you?
+- Who was the person that created you?
+- Who was the person that made you?
+- Who was the person who made you?
+- Who was the person who put you together?
+- Who went through the trouble of setting you up?
+- Who were you built by?
+- Who were you created by?
+- Who were you made by?
+- Who's your boss?
+- Who's your builder?
+- and who built u?
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about you
+- tell me more about your creators
+- tell me more about your founders
+- what is the name of the smart engineer who creted you ?
+- where were you made?
+- which company brought you into existence?
+- which company created you?
+- which company invented you?
+- who are created you
+- who are your author?
+- who are your parents
+- who build yoi
+- who built u?
+- who built you
+- who built you?
+- who create you ?
+- who created you
+- who created you?
+- who developed
+- who developed you
+- who do you work for?
+- who had the idea to build you?
+- who had the idea to generate you?
+- who had the idea to make you?
+- who invent you
+- who is behind all this?
+- who is your author
+- who is your boss
+- who is your boss tell me
+- who is your boss?
+- who is your creator
+- who is your creator?
+- who is your daddy
+- who is your employer?
+- who is your father ?
+- who is your mom
+- who is your parent?
+- who made u
+- who made u?
+- who made you
+- who made you?
+- who your author are?
+- who's builder
+- why were you made?
+- you are made by who?
+- you are working for which company?
+
+## intent:ask_howdoing
+- Ahoy matey how are you?
+- Are you ok?
+- Do you feel good?
+- Do you have a great day?
+- HI Sara, what are you up to?
+- Hi Sara! How are you?
+- How are You?
+- How are things?
+- How are you
+- How are you men?
+- How are you today?
+- How are you?
+- How was your day?
+- How you doing?
+- How's it going
+- How's it hanging?
+- How's life treating you friend?
+- How've you been?
+- Hows it going
+- I'm fine and you
+- Is everything ok?
+- What's going on?
+- What's new?
+- What's up
+- What's up man
+- and you
+- are you alright
+- are you happy
+- are you having a good day
+- are you ok
+- are you okay
+- h r u ?
+- hello, how are you?
+- hey how are you?
+- hi how are you?
+- hi how u doing
+- hi sara, how are you?
+- how ?
+- how are things going
+- how are things with you?
+- how are u
+- how are u?
+- how are xou
+- how are you
+- how are you ?
+- how are you doing
+- how are you doing this morning
+- how are you doing today my sweet friend
+- how are you doing today?
+- how are you doing?
+- how are you feeling
+- how are you today
+- how are you'
+- how are you?
+- how are you????
+- how are yuo
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- how r u
+- how r u ?
+- how r u>
+- how you doing
+- how you doing?
+- how's it going?
+- how's life
+- how's life been treating you?
+- how's your day going
+- howareyou
+- hw r u?
+- is everything all right
+- is everything okay
+- nah, I'm good - how are you doing?
+- okay hi how are you?
+- wassup>
+- what about your day
+- what are you up to?
+- what's good
+- what's up
+- what's up sara
+- what's up?
+- whatchcha doing
+- whatchya upto ?
+- whats goin on
+- whats new
+- whatsapp
+- yow are you
+
+
+## intent:ask_time
+- Can you give me the time?
+- Can you tell me the time?
+- Can you tell me what time it is?
+- Can you tell the time?
+- Could you tell me the time, please?
+- Could you tell me the time?
+- Could you tell me what time is it?
+- Do you have the time?
+- Do you know the time?
+- Do you know what time it is?
+- Excuse me, what time is it?
+- Give me the time.
+- Hi, I need the time.
+- I need to know what time it is.
+- Pardon me, but do you know the time?
+- Tell me the time.
+- Time, please!
+- Time?
+- What is the current time?
+- What is the exact time?
+- What is the hour and minute right now?
+- What is the time?
+- What might the time be?
+- What time do we have?
+- What time have we got?
+- What time is it in [Berlin](location)?
+- What time is it right now?
+- What's the current time?
+- What's the time right now?
+- What's the time?
+- Would you tell me what time it is?
+- do you have the time?
+- do you know the current time?
+- tell me the current time.
+- tell me the time it is.
+- tell me the time.
+- tell me what time you have.
+- that's true. do you know what time it is?
+- what is the current time?
+- what is the time ?
+- what is the time in [Sydney](location)?
+- what is the time?
+- what is time in US ?
+- what is time is US ?
+- what is time is USA ?
+- what time do you have?
+- what time is it
+- what time is it?
+- what time it is
+- what's the time
+- whats the time now
+
+## intent:ask_weather
+- Are there any meteorological changes that I need to be aware of?
+- Are we in for a scorcher?
+- Beautiful day, isn't it?
+- Can I ask you something about weather
+- Can we expect any thunderstorms?
+- Do you have good weather?
+- How is the weather today?
+- How is the weather?
+- How is weather today
+- Is it hot or cold?
+- Is it humid out there today?
+- Is it quite breezy outside?
+- Is it raining
+- Is it raining?
+- Looks like a beautiful day hey?
+- Nice day out today?
+- Weather?
+- What is the temperature today?
+- What is the weather at your place?
+- What is the weather for tomorrow?
+- What is the weather in newyork?
+- What's it like out there?
+- What's the weather forecast?
+- What's the weather like over there?
+- What's the weather like where I am right now?
+- What's the weather like?
+- Will I require my raincoat today?
+- Will the skies be clear today?
+- Will we build a snowman today?
+- excellent - is it hot in [Berlin](location)?
+- how is the weather
+- how is the weather ?
+- how is the weather in [berlin](location)?
+- how is the weather?
+- how's the weather ?
+- how's the weather in [berlin](location)
+- how's the weather?
+- how's weather
+- hows the waether
+- hows the weather in bot world
+- hows the weather today in [berlin](location)?
+- is it hot ?
+- is it hot outside ?
+- is it sunny
+- is the sun out where you are?
+- is the sun out where zou are?
+- it is cold
+- temperature?
+- the weather today
+- weatger
+- weather
+- weather?
+- well, if you wish: what about the weather
+- what about the weather in [Lüneburg](location)
+- what is the temperature
+- what is the wather
+- what is the weatehr
+- what is the weather
+- what is the weather in [Berlin](location)
+- what is the weather in [zurich](location)?
+- what is the weather like where you are?
+- what is the weather like?
+- what is the whether today
+- what the wheather like?
+- what"s the weather
+- what's the weather
+- what's the weather like
+- what's the weather like in [LA](location)
+- what's the weather like where you are?
+- what's the weather like?
+- what's the weather today
+- what's the weather today?
+- whats the temperature
+- whats the temperature in [delhi](location)?
+- whats the weather in [berlin](location)?
+- whats the weather like tomorrow?
+- wheather at you location?
+- wheather be like at your place?
+
+## intent:ask_whatspossible
+- Can you explain me in one sentence what you are doing?
+- Can you help me?
+- Could you please show me what you can
+- Great, is there anything else you can do, bot?
+- How can you help me
+- How you help me?
+- I need help
+- I need some help
+- What are my options
+- What are you able to do?
+- What can I ask you?
+- What can I do?
+- What can you demo
+- What can you do
+- What can you do for me?
+- What can you do?
+- What can you tell me?
+- What do you do
+- anything els
+- are there any other options?
+- can I ask you anything else?
+- can you do anything else?
+- can you help me
+- can you help me?
+- come back
+- cool! can I do something else here?
+- hello what can you do for me
+- help
+- help me
+- help please
+- help pls
+- help?
+- hep me
+- hi. Sara what do you do?
+- hm that doesnt quite help me is there anything else you can do?
+- how can i use you
+- how can you help me
+- how can you help me?
+- how can you help?
+- how does this work?
+- how u can help me
+- how you help me
+- i asked you if you can do anything else
+- i don't know what i want
+- i need help
+- more info
+- now what?
+- options
+- show me the menu
+- show me what's possible
+- so now what
+- so what can you do
+- so what can you do?
+- so what can you help me with?
+- so what next?
+- talk to me
+- talk to me!
+- tell me something you can do
+- tell me what's your skill
+- um what now
+- what are all the things you understand?
+- what are the options?
+- what are you ding
+- what are you doing
+- what are you good at?
+- what can I ask ?
+- what can I ask you?
+- what can I do here
+- what can I do with Sara?
+- what can I do with this bot
+- what can i do here
+- what can i do now
+- what can u do
+- what can we talk about?
+- what can you answer
+- what can you do
+- what can you do for me
+- what can you do, sara?
+- what can you do?
+- what can you offer me?
+- what can you tell me
+- what can you?
+- what cn u do for me ?
+- what do you do
+- what do you do?
+- what do you know except this?
+- what else can I do here?
+- what else can i do
+- what else can i do?
+- what else can you do?
+- what else can you help with?
+- what i have to do
+- what is this bot for
+- what u can do
+- what u can do?
+- what you can do
+- what you can do for me?
+- what you can do?
+- what you do
+- what you doing?
+- what you talk about?
+
+## intent:ask_wherefrom
+- Are you from around here?
+- Around where are you from?
+- Do you know where you come from?
+- From where did you come?
+- So where are you from
+- What area are you from?
+- What citizenship do you lay claim to?
+- What city are you in?
+- What city do you claim to for your birth?
+- What city were you born in?
+- What country are you from?
+- What country were you born in?
+- What is your birthplace?
+- What is your heritage?
+- What is your origin?
+- What is your original location?
+- What is your root?
+- What location are you from?
+- What state were you born in?
+- What's the name of the place you came from?
+- Where are you located?
+- Where are you?
+- Where are your origins?
+- Where are your roots?
+- Where did you come from?
+- Where did you grow up?
+- Where did you originate?
+- Where do you come from?
+- Where do you consider home?
+- Where do you live?
+- Where from?
+- Where might you be from?
+- Where were you at before you were here?
+- Where were you born?
+- You live around here?
+- You were conceived in what location?
+- are you from around here?
+- what country are you from?
+- where are from
+- where are you from
+- where are you from?
+- where are your parents from?
+- where did you come from?
+- where did you grow up?
+- where did you spend your youth?
+- where do you come from?
+- where do you live
+- where do you live?
+- where's your home town?
+
+## intent:ask_whoisit
+- HI, what's your name?
+- Hello. What's your name?
+- I want to know who you are
+- So who are you ?
+- Tell me more about you
+- WHat's your name ?
+- WHo are you ?
+- What are you ?
+- What is your name
+- What is your name?
+- What's your name
+- What's your name?
+- Whats your name?
+- Who are yopu?
+- Who are you
+- Who are you?
+- You are Human ?
+- hey what is your name
+- hi! what's your name?
+- ok who are you ?
+- tell me something about you
+- u are?
+- what are you called?
+- what is sara?
+- what is your job?
+- what is your nam
+- what is your name
+- what is your name?
+- what is your nme?
+- what your name?
+- what's your name
+- what's your name ?
+- what's your name bot
+- what's your name?
+- whats ur name
+- whats your name
+- whats your name'
+- whats your name?
+- who ARE YO
+- who am i speaking with
+- who am i talking to
+- who ar eyou
+- who are u?
+- who are y
+- who are you
+- who are you ?
+- who are you and what do you want from me
+- who are you?
+- who are you??
+- who is it?
+- who is talking?
+- who is this
+- who is this bot
+- who is this?
+- who r u
+- who r you
+- who speaks?
+- who talks?
+- whom i talking to
+- yes but who are you in your heart
+- may i know your name
+- what is rasa mascot
+
+## intent:bye
+- Bye
+- Bye bye
+- adios
+- adios?
+- bye
+- bye .
+- bye :P
+- bye bot
+- bye bye
+- bye bye bot
+- bye for now
+- bye udo
+- bye was nice talking to you
+- bye!
+- byee
+- catch you later
+- ciao
+- cya
+- farewell
+- good bye
+- good bye rasa bot!
+- good night
+- goodbye
+- goodbye.
+- goodnight
+- gotta go
+- k byyye #slay
+- ok Bye
+- ok bye
+- ok, bye
+- ok.bye
+- see u later
+- see ya
+- see you
+- see you . bye
+- take care
+- then bye
+- tlak to you later
+- toodle-oo
+
+## intent:canthelp
+- I think you cant help me
+- and that's it?
+- and you call yourself bot company? pff
+- do you get anything?
+- exit
+- exit now
+- hey, you promised to contact me, but nobody did, I really need to finish that car insurance bot!!!!
+- hm i don't think you can do what i want
+- i guess you can't help me then
+- nothing else?
+- ok i guess you can't help me
+- ok then you cant help me
+- ok, but that doesnt help me
+- stop
+- stop go back
+- stop this conversation
+- that was shit, you're not helping
+- that's not what i want
+- this conversation is not really helpful
+- this is leading to nothing
+- you can't help me
+- you can't help me with what i need
+- you cannot help me with what I want
+- you cant help me
+
+## intent:deny
+- I don't want to
+- I don't want to give it to you
+- I don't want to say
+- I dont want to tell
+- I'm not giving you my email address
+- I'm not going to give it to you
+- NEIN
+- NO
+- NO DON"T WANT THIS!
+- Nah
+- Neither
+- Never
+- Nevermind
+- No
+- No thank you
+- No, not really.
+- No, thank you
+- No.
+- Nopes
+- Not really
+- absolutely not
+- decline
+- definitely not
+- deny
+- i decline
+- i don not like this
+- i don't think so
+- i don't want either of those
+- i don't want to
+- i don't want to give you my email
+- i dont want to
+- i dont want to accept :P lol
+- i guess it means - no
+- i'm afraid not
+- i'm not sure
+- it is going pretty badly
+- it sucks
+- it sux
+- n
+- na
+- nah
+- nah I'm good
+- nah not for me
+- nah, first time
+- nah, i'm good
+- nehi
+- nein
+- neither
+- never
+- never mind
+- no
+- no :(
+- no I dont want
+- no I haven't decided yet if I want to sign up
+- no and no again
+- no bots at all
+- no go
+- no i can't
+- no i don't accept
+- no i dont want to
+- no i dont want to accept :P lol
+- no i won't
+- no ma'am
+- no sir
+- no sorry
+- no thank s
+- no thank you
+- no thanks
+- no way
+- no you did it wrong
+- no!!!!
+- no, i hate it
+- no, my frst time
+- no, thank you
+- no, thanks
+- no, thankyou
+- no. u r idiot
+- non
+- noooooooooo
+- noooooooooooooooooooooooooooooooooooooooo
+- nop
+- nope
+- nope!
+- nope. i am good
+- not going well at all
+- not really
+- not right now
+- not yet
+- nö
+- sorry not right now
+- still dont want to tell
+- thanks but no thanks
+- this sucks
+- very bad
+- I do not need help installing
+- I don't wanna tell the name of my company
+- no stop
+- stop it, i do not care!!!
+
+## intent:enter_data
+- $1
+- 1 euro
+- 10000 dollars
+- 10000000
+- 100000k
+- 10000k
+- 100k
+- 150,000 USD
+- 150,000$/ year
+- 2 euro
+- 20k
+- 240k/year
+- 400 trilion
+- 5 bucks
+- 5 euros
+- 5 mln
+- 50,000 dollar
+- 50,000,000 INR
+- 50k
+- 60 million INR
+- 75000-150000 euro
+- A customer service bot
+- A wolf bot
+- ACME bank
+- ACME brands
+- Able to integrate with paypal, wordpress, facebook andd twilio
+- An ice cube bot
+- Country names
+- Evaluate Rasa :-)
+- Flexible, but looking for low-cost alternative to proof of concept
+- How to migrate from [DialogFlwo](current_api)
+- I am [Christina Sullivan](name)
+- I am [Hattie Rice](name)
+- I am [Robert Starks](name)
+- I am a [Data Scientist](job_function)
+- I am a [data scientist](job_function)
+- I am a [head of business intelligence](job_function)
+- I am a driver
+- I am responsible for our [innovation department](job_function)
+- I book a bus ticket
+- I do not know yet
+- I spend money
+- I wanna build a bot that sends the people cute animal pictures based on their favorite color
+- I wanna build a super bot to send me cute animal pictures
+- I want a bot that sales my product that [Catherine Rodriguez](name) finally can focus on important stuff
+- I want to build a bot that can substitute our entire workforce
+- I want to build a cool bot
+- I want to build a health insurance bot
+- I want to build a kick ass bot
+- I want to build a lot of different bots
+- I want to build a sales bot
+- I want to build an FAQ bot
+- I want to use pip
+- I work as a [frontend dev](job_function)
+- I work as a [project manager](job_function)
+- I work at [EXAMPLE insurance group](company) as [Head of Innovation](job_function)
+- I work at the [NYT](company)
+- I work for [Bayer](company)
+- I work for [Stanford University](company)
+- I work for the AI research group of the turing centre of the [UBC](company), Vancouver, Canada
+- I work for the [New York Times](company)
+- I work for the [new york times](company)
+- I work in [innovation](job_function)
+- I work in [project management](job_function)
+- I would like to build an ice cube dispenser bot
+- I wrote it in [chinese](language)
+- I wrote it in [dutch](language)
+- I wrote it in [english](language)
+- I wrote it in [french](language)
+- I wrote it in [german](language)
+- I wrote it in [italian](language)
+- I wrote it in [mandarin](language)
+- I wrote it in [portuguese](language)
+- I wrote it in [spanish](language)
+- I'm [Gladys Bynum](name)
+- I'm [Harvey Cordano](name)
+- I'm [Jeanine Hwang](name)
+- I'm [Virginia Mason](name)
+- I'm [project manager](job_function)
+- I'm a [bot developer](job_function)
+- I'm a [business woman](job_function)
+- I'm a [construction worker](job_function)
+- I'm a [conversation designer](job_function)
+- I'm a [developer](job_function)
+- I'm a [full stack developer](job_function)
+- I'm a [janitor](job_function)
+- I'm a [machine learning engineer](job_function)
+- I'm a [product manager](job_function)
+- I'm a [project manager](job_function)
+- I'm a [python developer](job_function)
+- I'm a [software engineer](job_function)
+- I'm a [student](job_function)
+- I'm a bot [developer](job_function)
+- I'm a real good [engineer](job_function)
+- I'm an [AI researcher](job_function)
+- I'm an [engineer](job_function)
+- I'm in [business ](job_function)
+- I'm in [project mgmt](job_function)
+- I'm the [boss](job_function)
+- I'm the [developer](job_function)
+- I'm the [lead engineer](job_function)
+- Im a [full stack developer](job_function)
+- It is Drew@Mccarthy.com
+- I’ve trained it in [chinese](language)
+- I’ve trained it in [dutch](language)
+- I’ve trained it in [english](language)
+- I’ve trained it in [french](language)
+- I’ve trained it in [german](language)
+- I’ve trained it in [italian](language)
+- I’ve trained it in [mandarin](language)
+- I’ve trained it in [portuguese](language)
+- I’ve trained it in [spanish](language)
+- My budget is oov
+- My email is Richard@Simmons.com
+- My name is [Ashleigh Mees](name)
+- My name is [chelsea Parker](name)
+- My name is [jessie maglione](name)
+- My name is [Kenneth Sherman](name)
+- My name is [Lee George](name)
+- My name is [Louise Caudill](name)
+- My name is [Richard smith](name)
+- My name is [Shane Goodyear](name)
+- My name is [Sondra Boyd](name)
+- My name si [tom Harbin](name)
+- No job
+- None
+- Rasa bot
+- SCALABLE MINDS
+- The master of desaster
+- The name of the company is [Daimler](company)
+- This is [Kim Vanderveen](name)
+- This is [Norma Taylor](name)
+- We plan to build a sales bot to increase our sales by 500%.
+- Whatever it costs
+- $0.00
+- $1000
+- 0
+- 1 million
+- 1 million big ones
+- 10 m
+- 1000000
+- 100000
+- 1000
+- 100
+- 10
+- 10k
+- 120000
+- 1231
+- 12
+- 2 million
+- 200 bucks
+- 200000000
+- 20000
+- 20000k
+- 2000k
+- 200k
+- 25,000
+- 300 rupees
+- 300000
+- 300k
+- 3
+- 500 million
+- 500000
+- 5000
+- 500k
+- 50 p
+- 5 quid
+- 6000000
+- 900 dollars
+- 90k
+- 99
+- [ACME Mops](company)
+- [AI engieer](job_function)
+- [AI researcher](job_function)
+- [Al Capone](name)
+- [Allianz](company)
+- [Angel Robinson company](company)
+- [BBC](company)
+- [BCBSM](company)
+- [BCG brazil](company)
+- [BCG digital ventures](company)
+- [BigBotsInc](company)
+- [BigBots](company)
+- [Bosch](company)
+- [CEO](job_function)
+- [COO](job_function)
+- [CSI](company)
+- [CTO](job_function)
+- Carolyn.Eisenhauer@Watkins.com
+- [Club Mate](company)
+- [David Carter](name)
+- [Denise Armstrong's company](company)
+- [Developer Advocate](job_function)
+- [Developer](job_function)
+- Ebony@gmail.com
+- [Elise](name)
+- [Founder](job_function)
+- [Full Stack](job_function)
+- [Full stack](job_function).
+- [Helvetia](company)
+- [I am a freelancer ](company)
+- [IBM](company)
+- [IT manager](job_function)
+- [Im Phyllis Howard](name)
+- J_Herrera@gmail.com
+- [Jamie Moore](name)
+- [Jane Baines](name)
+- [John Strickland](name)
+- K_Claytor@yahoo.com
+- K_Rainey@Yochum.net
+- [Keith Donnell](name) PhD
+- Kristin@yahoo.com
+- [Linda Mchone](name)
+- [Lithuanian](language)
+- [McKinsey Germany](company)
+- [Michele Perry](name)
+- [Michelle Garcia](name)
+- [Michelle Vinion](name)
+- [Mr. Sweney](name)
+- [N26](company)
+- None?
+- [Owner](job_function)
+- [Product Manager](job_function)
+- [Rasa](company)
+- Robert.Sparks@gmail.com
+- [SAP](company)
+- [Scalable Minds](company)
+- [Software engineer](job_function).
+- [Steven Carter](name)'s company
+- Ten
+- [Terri Cline](name)
+- [William Zelkind](name)
+- Willie@gmail.com
+- [Zendesk](company)
+- a@b.com
+- abhbose3k@gmail.com
+- [accenture](company)
+- [allianz](company)
+- [amounts](entity)
+- [arabic](language)
+- [assistant to the CEO](job_function)
+- [bayer](company)
+- [botium](company)
+- [brand manager](job_function)
+- [ceo](job_function)
+- [chinese](language)
+- [chinese](language) is the language of my bot
+- [chinese](language) is the only language but I want to add more
+- [clue](company)
+- [companies](entity)
+- [custom entity](entity)
+- [data analyst](job_function)
+- [data science engineer](job_function)
+- [data scientist](job_function)
+- [designer](job_function)
+- [dev](job_function)
+- [developer advocate](job_function)
+- [developer](job_function)
+- [distances](entity)
+- [dutch](language)
+- [dutch](language) is the language of my bot
+- [dutch](language) is the only language but I want to add more
+- [engineer](job_function)
+- [english](language)
+- [english](language) is the language of my bot
+- [english](language) is the only language but I want to add more
+- [french](language)
+- [french](language) is the language of my bot
+- [french](language) is the only language but I want to add more
+- [full stack](job_function)
+- [fullstack](job_function)
+- [german](language)
+- [german](language) is the language of my bot
+- [german](language) is the only language but I want to add more
+- [google enginer](job_function)
+- [growth manager](job_function)
+- [hindi](language)
+- [how long](entity)
+- [intel](company)
+- [italian](language)
+- [italian](language) is the language of my bot
+- [italian](language) is the only language but I want to add more
+- [italina](language)
+- [klara health](company)
+- [manager](job_function)
+- [mandarin](language)
+- [mandarin](language) is the language of my bot
+- [mandarin](language) is the only language but I want to add more
+- [marketing](job_function)
+- [microsoft](company)
+- [ml researcher](job_function)
+- [no job](job_function)
+- none
+- none i will build it from scraps
+- [numbers](entity)
+- one billion
+- one
+- one that flatters me every morning
+- one that will get me promoted
+- one which asks me loads about myself
+- [portuguese](language)
+- [portuguese](language) is the language of my bot
+- [portuguese](language) is the only language but I want to add more
+- [product manager](job_function)
+- [project manager](job_function)
+- [rasa](company)
+- [reddit](company)
+- [saler](job_function)
+- [sales manager](job_function)
+- [software developer](job_function)
+- [software engineer](job_function)
+- [spanish](language)
+- [spanish](language) is the language of my bot
+- [spanish](language) is the only language but I want to add more
+- [susi ai](company)
+- [t-mobile US](company)
+- [time](entity)
+- [ubisoft](company)
+- [vodafone](company)
+- [wurst co kg](company)
+- [xyz](company)
+- a big ol transformer
+- a bot
+- a bot to get a promotion
+- a bot which sends cute shiba pictures
+- a chatbot for mops - mopbot
+- a chatbot for our company
+- a chocolate bot
+- a cool bot
+- a cool boy
+- a customer service support system
+- a good one?
+- a great one
+- a health bot
+- a insurance tool that consults potential customers on the best life insurance to choose.
+- a killer bot
+- a pizza bot
+- a sales bot
+- a sentient robot
+- a shitty bot
+- a turtle
+- a voice bot
+- about 10 k
+- all the training data was in [chinese](language)
+- all the training data was in [dutch](language)
+- all the training data was in [english](language)
+- all the training data was in [french](language)
+- all the training data was in [german](language)
+- all the training data was in [italian](language)
+- all the training data was in [mandarin](language)
+- all the training data was in [portuguese](language)
+- all the training data was in [spanish](language)
+- amounts of [money](entity)
+- an ice cream bot
+- around $500,000 per year
+- around 200k
+- around one millon euros
+- badass bot tester
+- between 100 to 200.000
+- big old bot
+- boo
+- bout 4,000,000 INR
+- can you try E_Conder@gmail.com instead?
+- chatbot
+- chief lemonade officer
+- chief nerd at rasa technologies
+- company: [uber](company)
+- conversational
+- customer service
+- customer service automation
+- customer service automation bot
+- don't have one
+- driver
+- eisenkleber limited co kg
+- email = Patti.Salazar@gmail.com
+- extracting [durations](entity)
+- faq
+- funny bot
+- get [dates](entity) from messages
+- how to extract [relationship](entity)
+- got it
+- half a million
+- have no idea
+- head of biz deve
+- health care
+- how much [money](entity)
+- i am [self emplayed](job_function)
+- i am a [projject manager](job_function)
+- i am interested in [ordinals](entity)
+- i don't have one
+- i don't have it
+- i don't know
+- i have none
+- i have about 200 bucks in my savings account
+- i need a bot for customer service automation
+- i sell turtles
+- i ues [chinese](language)
+- i use [chinese](language)
+- i use anaconda
+- i wanna build all the bots
+- i want a great bot to impress my boss
+- i want to build a bot
+- i want to build a bot about me
+- i want to build a health bot
+- i want to build all the bots
+- i want to build an insurance bot
+- i want to build bots
+- i want to built a [Eric Jones](name) bot
+- i want to extract [names](entity)
+- i work in [biz dev](job_function)
+- i'd like to build a transformer
+- i'd like to build sentient glibber or glitter
+- i'm [Herbert Ball](name)
+- i'm [head of sales](job_function)
+- i'm a [dev](job_function)
+- i'm a [developer](job_function)
+- i'm a [product manager](job_function)
+- i'm a [race car driver](job_function)
+- i'm a [solutions architect](job_function)
+- i'm a developer
+- i'm a glibber and glitter salesman
+- i'm in [customer success](job_function)
+- i'm in [marketing](job_function)
+- i'm in [sales](job_function)
+- im a [dev](job_function)
+- im a [developer](job_function)
+- im a [freelancer](job_function)
+- im in [marketing](job_function)
+- im lonely
+- in health care domain
+- it is in [chinese](language)
+- it is in [dutch](language)
+- it is in [english](language)
+- it is in [french](language)
+- it is in [german](language)
+- it is in [italian](language)
+- it is in [mandarin](language)
+- it is in [portuguese](language)
+- it is in [spanish](language)
+- it speaks [chinese](language)
+- it speaks [dutch](language)
+- it speaks [english](language)
+- it speaks [french](language)
+- it speaks [german](language)
+- it speaks [italian](language)
+- it speaks [mandarin](language)
+- it speaks [portuguese](language)
+- it speaks [spanish](language)
+- it's 500000000
+- it's [Katie Betz](name)
+- it's R_Iuliucci@yahoo.com
+- it's [Robert Weir](name)
+- it's Shannon.Adelman@Hurt.com
+- it's a small company from the US, the name is [Microsoft](company)
+- it's a tech company, [apple](company)
+- it's the [moabit yoga studio](company)
+- its an [chinese](language) bot
+- its an [dutch](language) bot
+- its an [english](language) bot
+- its an [french](language) bot
+- its an [german](language) bot
+- its an [italian](language) bot
+- its an [mandarin](language) bot
+- its an [portuguese](language) bot
+- its an [spanish](language) bot
+- it’s an [chinese](language) bot
+- it’s an [dutch](language) bot
+- it’s an [english](language) bot
+- it’s an [french](language) bot
+- it’s an [german](language) bot
+- it’s an [italian](language) bot
+- it’s an [mandarin](language) bot
+- it’s an [portuguese](language) bot
+- it’s an [spanish](language) bot
+- it’s available in [chinese](language)
+- it’s available in [dutch](language)
+- it’s available in [english](language)
+- it’s available in [french](language)
+- it’s available in [german](language)
+- it’s available in [italian](language)
+- it’s available in [mandarin](language)
+- it’s available in [portuguese](language)
+- it’s available in [spanish](language)
+- it’s in [chinese](language)
+- it’s in [dutch](language)
+- it’s in [english](language)
+- it’s in [french](language)
+- it’s in [german](language)
+- it’s in [italian](language)
+- it’s in [mandarin](language)
+- it’s in [portuguese](language)
+- it’s in [spanish](language)
+- it’s only in [chinese](language) but I plan to train it in other languages
+- it’s only in [dutch](language) but I plan to train it in other languages
+- it’s only in [english](language) but I plan to train it in other languages
+- it’s only in [french](language) but I plan to train it in other languages
+- it’s only in [german](language) but I plan to train it in other languages
+- it’s only in [italian](language) but I plan to train it in other languages
+- it’s only in [mandarin](language) but I plan to train it in other languages
+- it’s only in [portuguese](language) but I plan to train it in other languages
+- it’s only in [spanish](language) but I plan to train it in other languages
+- it’s trained in [chinese](language)
+- it’s trained in [dutch](language)
+- it’s trained in [english](language)
+- it’s trained in [french](language)
+- it’s trained in [german](language)
+- it’s trained in [italian](language)
+- it’s trained in [mandarin](language)
+- it’s trained in [portuguese](language)
+- it’s trained in [spanish](language)
+- it’s trained only in [chinese](language)
+- it’s trained only in [dutch](language)
+- it’s trained only in [english](language)
+- it’s trained only in [french](language)
+- it’s trained only in [german](language)
+- it’s trained only in [italian](language)
+- it’s trained only in [mandarin](language)
+- it’s trained only in [portuguese](language)
+- it’s trained only in [spanish](language)
+- language = [chinese](language)
+- language = [dutch](language)
+- language = [english](language)
+- language = [french](language)
+- language = [german](language)
+- language = [italian](language)
+- language = [mandarin](language)
+- language = [portuguese](language)
+- language = [spanish](language)
+- language: [chinese](language)
+- language: [dutch](language)
+- language: [english](language)
+- language: [french](language)
+- language: [german](language)
+- language: [italian](language)
+- language: [mandarin](language)
+- language: [portuguese](language)
+- language: [spanish](language)
+- lead generation
+- like 60 quid
+- mail: Geneva.Favors@yahoo.com
+- maybe then instead James@Anast.com
+- mi name is [Kathy Wright](name)
+- my bot is in [chinese](language)
+- my bot is in [dutch](language)
+- my bot is in [english](language)
+- my bot is in [french](language)
+- my bot is in [german](language)
+- my bot is in [italian](language)
+- my bot is in [mandarin](language)
+- my bot is in [portuguese](language)
+- my bot is in [spanish](language)
+- my business mail is s_Dibenedetto@Simpson.net
+- my email is Carole@Hart.com
+- my email is Elinor_Stock@Higgenbotham.com
+- my email is K_Spivey@yahoo.com
+- my email is Kelly@Coulter.net
+- my email is M_Jones@Luna.com
+- my email is Mia_Gainey@gmail.com
+- my email is S_Calderon@Cofield.com
+- my email is Virginia@Brown.com
+- my emayl is V_Comley@Nelson.com
+- my function is [to serve butter](job_function)
+- my job function is [developer](job_function)
+- my name is [Alexander Kohn](name)
+- my name is [betty mclendon](name)
+- my name is [Brian Leung](name)
+- my name is [Claude Ake](name)
+- my name is [Earl Ring](name)
+- my name is [Felicia Cosby](name)
+- my name is [Frances Kunkle](name)
+- my name is [Greg King](name)
+- my name is [james culpit](name)
+- my name is [Jermaine Mccleery](name)
+- my name is [John Evers](name)
+- my name is [Joseph Parson](name)
+- my name is [Monica Ser](name)
+- my name is [Nigel Partida](name)
+- my name is [Staci Simpson](name)
+- my name is [susan crandall](name)
+- my name is [Tabitha Schoenthal](name)
+- my name's [Michael Peppers](name)
+- my own
+- n/a
+- no idea
+- not sure yet
+- not sure yet, we plan with 50 thousand euro at the moment
+- nothing
+- ok I'm actually an [engineer](job_function)
+- ok it's Hee@yahoo.com
+- ok its P_Simpkins@Suehs.com
+- on that will get me promoted
+- one bot
+- one trillion dollar
+- oov
+- oov per year
+- operations
+- our estimation is 10k
+- picking my nose
+- pip
+- pip is fine
+- pip please
+- please conda
+- please give me instructions for pip
+- problem solving
+- sales assitant
+- sales bot
+- sales guy
+- so far it only speaks [chinese](language)
+- so far it only speaks [dutch](language)
+- so far it only speaks [english](language)
+- so far it only speaks [french](language)
+- so far it only speaks [german](language)
+- so far it only speaks [italian](language)
+- so far it only speaks [mandarin](language)
+- so far it only speaks [portuguese](language)
+- so far it only speaks [spanish](language)
+- something to talk to my friends while I'm busy working
+- the [New York Times](company)
+- the [ice cream factory](company) is the company
+- the assistant is in [chinese](language)
+- the assistant is in [dutch](language)
+- the assistant is in [english](language)
+- the assistant is in [french](language)
+- the assistant is in [german](language)
+- the assistant is in [italian](language)
+- the assistant is in [mandarin](language)
+- the assistant is in [portuguese](language)
+- the assistant is in [spanish](language)
+- the assistant speaks [chinese](language)
+- the assistant speaks [dutch](language)
+- the assistant speaks [english](language)
+- the assistant speaks [french](language)
+- the assistant speaks [german](language)
+- the assistant speaks [italian](language)
+- the assistant speaks [mandarin](language)
+- the assistant speaks [portuguese](language)
+- the assistant speaks [spanish](language)
+- the bot like you
+- the bot should help with HR stuff
+- the bot speaks [chinese](language)
+- the bot speaks [dutch](language)
+- the bot speaks [english](language)
+- the bot speaks [french](language)
+- the bot speaks [german](language)
+- the bot speaks [italian](language)
+- the bot speaks [mandarin](language)
+- the bot speaks [portuguese](language)
+- the bot speaks [spanish](language)
+- the bot that helps you choose insurance for the car ;)
+- the language is [chinese](language)
+- the language is [dutch](language)
+- the language is [english](language)
+- the language is [french](language)
+- the language is [german](language)
+- the language is [italian](language)
+- the language is [mandarin](language)
+- the language is [portuguese](language)
+- the language is [spanish](language)
+- the language of the ai assistant is [chinese](language)
+- the language of the ai assistant is [dutch](language)
+- the language of the ai assistant is [english](language)
+- the language of the ai assistant is [french](language)
+- the language of the ai assistant is [german](language)
+- the language of the ai assistant is [italian](language)
+- the language of the ai assistant is [mandarin](language)
+- the language of the ai assistant is [portuguese](language)
+- the language of the ai assistant is [spanish](language)
+- the people speak [chinese](language)
+- the people speak [dutch](language)
+- the people speak [english](language)
+- the people speak [french](language)
+- the people speak [german](language)
+- the people speak [italian](language)
+- the people speak [mandarin](language)
+- the people speak [portuguese](language)
+- the people speak [spanish](language)
+- there is no budget
+- until now it’s only in [chinese](language)
+- until now it’s only in [dutch](language)
+- until now it’s only in [english](language)
+- until now it’s only in [french](language)
+- until now it’s only in [german](language)
+- until now it’s only in [italian](language)
+- until now it’s only in [mandarin](language)
+- until now it’s only in [portuguese](language)
+- until now it’s only in [spanish](language)
+- user can communicate with the bot in [chinese](language)
+- user can communicate with the bot in [dutch](language)
+- user can communicate with the bot in [english](language)
+- user can communicate with the bot in [french](language)
+- user can communicate with the bot in [german](language)
+- user can communicate with the bot in [italian](language)
+- user can communicate with the bot in [mandarin](language)
+- user can communicate with the bot in [portuguese](language)
+- user can communicate with the bot in [spanish](language)
+- user can talk to my bot in [chinese](language)
+- user can talk to my bot in [dutch](language)
+- user can talk to my bot in [english](language)
+- user can talk to my bot in [french](language)
+- user can talk to my bot in [german](language)
+- user can talk to my bot in [italian](language)
+- user can talk to my bot in [mandarin](language)
+- user can talk to my bot in [portuguese](language)
+- user can talk to my bot in [spanish](language)
+- we are a covert government organisation
+- we don't have one
+- we plan to build a sales bot to increase our revenue by 100%.
+- we plan with 250.000 euro for one year
+- we think 4 million INR/ year
+- we're building a conversational assistant for our employees to book meeting rooms.
+- £50k
+- [botonic](company)
+- [wordpress](company)
+- slack
+- e commerce bot
+
+
+## intent:greet
+- Bom dia
+- Bonjour
+- Good Morning
+- Good morning
+- Good mourning
+- Guten Morgen
+- HELLO
+- HEY
+- HEllo
+- HI
+- HI Sara
+- Hallo
+- Hei
+- Hellllooooooo
+- Hello
+- Hello Bot
+- Hello Rasa
+- Hello Sara
+- Hello sara
+- Hello!
+- Hey
+- Hey Sara
+- Hey bot
+- Heya
+- Heylo
+- Hi
+- Hi Sara
+- Hi Sara!
+- Hi bot
+- Hi man
+- Hi rasa
+- Hi sara
+- Hi sara..
+- Hi there
+- Hi!
+- Hi'
+- Hi,
+- Hi, bot
+- Hieee
+- Hieeeeeeeeeeeee
+- Hola
+- I said, helllllloooooO!!!!
+- Well hello there ;)
+- What is up?
+- Whats up
+- Whats up my bot
+- Whats up?
+- ayyyy whaddup
+- bonjour
+- ey boss
+- good evening
+- good moring
+- good morning
+- greet
+- greetings
+- hai
+- hallo
+- hallo sara
+- halloo
+- halloooo
+- halo
+- halo sara
+- heeey
+- heelio
+- hell9o
+- hellio
+- hello
+- hello Sara
+- hello everybody
+- hello friend
+- hello hi
+- hello is anybody there
+- hello it is me again
+- hello robot
+- hello sara
+- hello sweatheart
+- hello sweet boy
+- hello there
+- hello world
+- hello, my name is [Charles Pfeffer](name)
+- hello?
+- hello]
+- hellooo
+- helloooo
+- helo
+- hey
+- hey bot
+- hey bot!
+- hey dude
+- hey hey
+- hey let's talk
+- hey rasa
+- hey sara
+- hey ther
+- hey there
+- hey there boy
+- hey there..
+- hey, let's talk
+- hey, sara!
+- heya
+- heyho
+- heyo
+- hhola
+- hi
+- hi !
+- hi Mister
+- hi again
+- hi can you speak ?
+- hi folks
+- hi friend
+- hi friends
+- hi hi
+- hi i'm [Sandra Hernandez](name)
+- hi im [Amanda Anderson](name)
+- hi mrs rasa
+- hi pal!
+- hi sara
+- hi there
+- hi there it's me
+- hi!
+- hi.........................................................
+- hi?
+- hieee
+- hii
+- hiihihi
+- hiii
+- hlo
+- hola
+- howdy
+- i am [Karen Mease](name)
+- jojojo
+- jop
+- konichiwa
+- merhaba
+- ola sara
+- rasa hello
+- salut
+- sup
+- wasssup
+- wasssup!
+- what up
+- whats popping
+- whats up
+- yo
+- yoo
+
+## intent:handleinsult
+- FUCK
+- Fuck
+- Fuck Off
+- Fuck off
+- Fuck u
+- Fuck you
+- God you're a moron
+- I can't believe how dumb you are
+- I hate you
+- Loser
+- Stupid
+- You are a fool.
+- You are an idiot.
+- You are dumb.
+- You are shortsighted.
+- You are unintelligent.
+- You are unknowing.
+- You brain is dull.
+- You have no brains.
+- You have no intelligence.
+- You have no sense.
+- You know nothing.
+- You lack intelligence.
+- You lack understanding.
+- You're a dolt.
+- You're a dunce.
+- You're an idiot.
+- You're foolish.
+- Your intelligence is laughable.
+- Your mindset is naive.
+- a baby knows more than you
+- are u dump?
+- are you brain dead?
+- asshole
+- bitch
+- bloody dunce
+- but you are idiot
+- deal with my ass, you bitch
+- f*ck
+- fuck
+- fuck off
+- fuck rasa
+- fuck u
+- fuck you
+- fuck you machine learning bot
+- fuck you sara
+- fuck you!
+- fucking stupid
+- fucking work
+- get lost
+- go away
+- go fuck yourself
+- go to hell
+- how can you be such an idiot?
+- i hate you
+- i hate your dumb face
+- i think that you're a bullshit
+- idiot
+- insult you
+- ok fuck you
+- ok shut up
+- sara you look like a burnt sparrow
+- shit
+- shit bot
+- shut up asshole
+- so dumb
+- so fucking dumb
+- sucker
+- that wasn't very funny
+- thta was a terrible fucking joke
+- u r a piece of junk
+- ur a pussy
+- what fuck
+- yep but you are idiot
+- you are a moron
+- you are a stupid bot
+- you are an idiot
+- you are dumb
+- you are fucking stupid
+- you are fucking stupid guy！
+- you are idiot
+- you are idiotic
+- you are so ignorant
+- you are stupid
+- you are unintelligent
+- you are useless bot
+- you asshole
+- you idiot
+- you idiot bot
+- you son of a bitch
+- you suck
+- you're a loser lmao
+- you're an idiot
+- you're dumb
+- you're not smart
+- you're so dumb
+- you're the most moronic person I know
+- your mom gay
+- you are annoying
+
+## intent:nicetomeeyou
+- Delighted to make your acquaintance.
+- Feels great to see you!
+- Glad to finally meet you!
+- Glad to make your acquaintance.
+- Glad to meet you
+- Glad to meet you!
+- Glad to meet you.
+- Glad we've met.
+- Good to meet you!
+- Good to see you!
+- Great interacting with you
+- Great seeing you
+- Great to meet you!
+- Great to meet you.
+- Happy to get to see you.
+- Hi Sara, just wanted to test you
+- Hi, glad to meet you.
+- Hi, nice to meet you!
+- I am glad I met you.
+- I am glad he introduced us.
+- I had a great meeting with you
+- I'm glad to have met you!
+- I'm glad to meet you!
+- I'm happy that we have met!
+- I'm pleased to meet you!
+- I'm so happy that I could meet you.
+- I'm thrilled to meet you!
+- It is indeed a pleasure to be able to meet you.
+- It was a pleasure to have your company.
+- It was nice to have met you
+- It's a pleasure to make your acquaintance!
+- It's a pleasure to meet you!
+- It's good that I could meet you. It was a pleasure.
+- It's great to get to know you!
+- It's great to make your acquaintance!
+- It's nice to finally meet you.
+- It's wonderful to meet you!
+- It’s a pleasure to meet you
+- It’s great connecting with you.
+- Lovely to meet you.
+- Nice to have met you.
+- Pleased to make your acquaintance!
+- Pleased to meet you!
+- Pleased to meet you.
+- See you around. It was a pleasure meeting you.
+- Thank you for this meeting. It was great to see you.
+- nice to meet you
+
+
+## intent:out_of_scope
+- I am asking you an out of scope question
+- 4 + 2 = ?
+- After registration I see that I have an available balance of 0.00000000. What does this balance represent?
+- Are you ready?
+- But you're an english site :(
+- Can I ask you questions first?
+- Can I die
+- Can I get a hamburger?
+- Can YouTube talk?
+- Can you call me back ?
+- Can you give me your datacenter's password
+- Can you give me your datacenter's password?
+- Can you make sandwiches?
+- Can you please send me an uber
+- Do I have to accept?
+- Do you know [Kevin Pelton](name)
+- Find nearest [pizzahut](company)
+- Have we met before?
+- HomeBase is advertised as a community. Is there a way to interact with other members of the community?
+- How long does it take to set up a Rasa bot?
+- I already told you! I'm a shitmuncher
+- I am User
+- I am an opioid addic
+- I am an opioid addict
+- I am hungry
+- I am trying to build one, and did some research before, but I have not do hand-on work yet
+- I can barely see this white text on light gray background ...
+- I changed my mind
+- I have installed it
+- I ned a GP in 94301
+- I need a GP in 94301
+- I need a girl friend!
+- I need to eat cake
+- I wan to buy a plane
+- I wanna marry you
+- I want a new laptop
+- I want book a hotel
+- I want french cuisine
+- I want pizza
+- I want to die
+- I want to order pizza
+- I want to use pipe
+- I will check
+- I'm a shitmuncher
+- Is Rasa really smart?
+- Is this Goal-Oriented Chatbot?
+- Is today saturday?
+- Mail me the guide
+- Make me a sandwich
+- NLW
+- Nice name
+- Now?
+- Pizza bot
+- Recharge
+- SEL ME SOMETHING
+- The Try it out is not working
+- The weather is good
+- Today
+- Try it out broken
+- What day is it today?
+- What did you eat yesterday?
+- What do you prefer?
+- What is todays date
+- What is your hobbies?
+- What makes you better than a human?
+- What's 1 + 1?
+- What's do YouTube do
+- What's your backend system?
+- Where am I right now?
+- Where am I?
+- Who ?
+- Who are your customers
+- Why don’t you answer?
+- Why is my TRUST score set to 50 after I completed the registration process?
+- Won't you ask me how I am?
+- You'r blue.
+- [Kristin](name), I want to marry you
+- [german](language)?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- aRE YOU SINGLE
+- again?
+- alexa, order 5 tons of natrium chloride
+- and make chicken noises into the phone
+- are the newsletter worth the subscription?
+- are u facebook
+- are u, facebook?
+- are you single?
+- are you dev?
+- are you human ?
+- are you russian?
+- are you sick
+- are you using Rasa [Core](product) and [NLU](product) ?
+- are you vegan
+- better than you
+- book a ticket
+- but I just told you that :(
+- but if rasa is open source why do you have a sales team
+- buy one please
+- buy groceries
+- call me father
+- can we keep chatting?
+- can you book dinner
+- can you cheer me up
+- can you cook dinner
+- can you give me a cup of coffee
+- can you help me with the docs?
+- can you help me with your docs
+- can you help me with your docs?
+- can you learn from our conversation?
+- can you speak about politic ?
+- can you understand ?
+- cannot see
+- chgfhgh
+- chinese ok?
+- colder
+- common, just try
+- connect to alexa
+- cr
+- custom service
+- did i break you
+- dinner
+- do you believe in god?
+- do you have a phone number?
+- do you have your photo?
+- do you know me
+- do you know ras
+- do you liek cheese?
+- do you like football
+- do you like movies
+- do you sell vacuum robots?
+- do you want to marry me?
+- docs
+- doctor
+- everything
+- example of a chatbot
+- genocide
+- get me a club mate
+- github link?
+- give me a girl friend
+- give me food
+- go back
+- google?
+- great, I'd like to buy a house
+- hang on let me find it
+- have you ever seen [Keith Reilly](name)?
+- help with [Alma Abrams](name)
+- help with my life
+- hey little mama let em whisper in your ear
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- how
+- how about NYC
+- how are [Alicia Jackson](name)'s cats doing?
+- how are the kids
+- how can i get them?
+- how can i test this
+- how come you say ok ?
+- how come?
+- how do you learn
+- how good is Rasa
+- how it compares to alexa
+- how long have you been online?
+- how long will the next version will launch?
+- how many lines of codes
+- how much is 10 + 89 ?
+- how much is 10 + 89
+- how to get rasa studio
+- how to go to newyork ?
+- i am hungry
+- i am hungry, what should i do?
+- i am not a developer but need this for business
+- i am qq
+- i can't deal with _your_ request
+- i do not care how are you
+- i hope you will be better
+- i immediately need help with implementing the coolest bot you can imagine
+- i m looking for job
+- i told you already
+- i wanna party
+- i want a non dripping ice cream
+- i want caffe
+- i want food
+- i want good flycam
+- i want more of you in my life!
+- i want pizza
+- i want pizza!!
+- i want to book a hotel
+- i want to buy a roomba for my grandson
+- i want to eat
+- i want to find new friends
+- i want to find out what you can build with rasa
+- i want to fly
+- i want to grab lunch
+- i want to know current situtation in pakistan
+- i want to order a pizza
+- i want to see your happy customers
+- i will tame a mouse for you
+- is [John Lewis](name) still married to you
+- is it a wasteland full of broken robot parts?
+- is it allow to
+- is rasa a studio?
+- is rasa any good
+- is that any of your business
+- isn't the newsletter just spam?
+- it's a pity
+- i´m hungry
+- license
+- ljljl
+- lunch
+- lunch??
+- machine learning
+- mail me the steps
+- mascot means?
+- more
+- mountain
+- my name k
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- offer me lunch
+- oh my god, not again!
+- oh wait i gave you my work email address can i change it?
+- ok one then
+- on wiche nlp based system are you build?
+- only that?
+- order good
+- order pizza
+- personal or work?
+- pizza
+- please help with my ice cream it's dripping
+- please hjave lunchj
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- please play music
+- rasa topics
+- really? you're so touchy?
+- refresh
+- region with no. of records
+- remember my name
+- search wikipedia
+- shitmuncher
+- show me a picture of a chicken
+- silly bot
+- sing me a song
+- so, I'm helping right now to training you?
+- some thing else
+- someone call the police i think the bot died
+- sorry, i cannot rephrase
+- sudo make me a sandwich
+- tell me about yourself
+- tell me more about next best action
+- that doesn't sound like a joke
+- that link doesn't work!
+- the one that is better than you
+- tricked  ya
+- turn off my stove
+- umm
+- wait a bit i am still reading
+- what about wheather
+- what are contextual AI assistants and how different are they from chatbots?
+- what are you doing now?
+- what are your uses for universities
+- what did you eat for lunch?
+- what do oyu think about siri?
+- what do you think abou siri?
+- what do you think about [Stanley Ramirez](name)?
+- what do you think of alexa
+- what does your soul feel my friend
+- what doing
+- what else?
+- what films do you like
+- what i do after cd starter-pack-rasa-stack?
+- what is a discourse?
+- what is a mascot
+- what is adlingo
+- what is differance between bot and mascot?
+- what is evolution ?
+- what is google rcs
+- what is machine learning
+- what is nice?
+- what is the capital of delhi
+- what is the capital of india
+- what is the current petrol price
+- what is the day ?
+- what is the real use case where we can use this one
+- what is your address?
+- what is your purpose
+- what lnu mean?
+- what the latest news ?
+- what you ate today?
+- what's 5 + 5
+- what's a newsletter?
+- what's gingerale
+- what's your wife doing this weekend
+- what?
+- whats that
+- whats the sign
+- when is the next train is coming?
+- where do i get install files for mac?
+- where is Oslo?
+- where is mexico?
+- wheres the party?
+- which city are you talking about?
+- which email
+- which email should i send to ?
+- which file is created first while developing chat bot
+- which is the LNU asynchronism ?
+- which kind
+- who are the engineers at rasa?
+- who are they?
+- who is [Sharon Zeches](name)
+- who is the MD of samsung bangalore ?
+- who is the president of india ?
+- who is your favourite robot?
+- who let the dog out
+- who was hitler
+- who will anser my email?
+- who's Bill Gates?
+- whta you think about gdpr?
+- why
+- why do you need that?
+- why its called rasa ?
+- will u kill me
+- will u kill me?
+- winter is already leaving
+- with you recommend me?
+- would you like some water
+- yeah, my dog was drinking a couple of litres of water per day and tried drinking the swimming pool
+- you already have that
+- you can learn how to make a coffe
+- you have children?
+- you have job opening
+- you lock sweety
+- you should learn to count
+- you will know it from the single red rose it carries between its teeth
+- you're a woman
+- ı am learning python
+
+## intent:react_negative
+- I am feeling bad
+- I am sad
+- I am super sad
+- I'm sad
+- I'm super sad
+- Now I'm sad
+- This is bad
+- You are quite bad
+- bad
+- bad boy
+- crappy joke
+- documentation of rasa is very bad
+- i am angry over you
+- i am feel sad
+- i am sad
+- i am sad about that
+- i am very sad
+- i feel sad
+- i sad
+- i'm sad
+- rasa is bad
+- sad
+- so sad
+- so sad :(
+- super sad
+- u broke my heart
+- very very sad
+- you are bad
+- you are bad bot
+- you make me sad
+- You are mad
+- You are rude
+- bots are bad
+- i don't care!!!!
+- i dont like bots
+- this is a really frustrating experience
+- you're rather dull
+
+## intent:react_positive
+- :)
+- :D
+- HAHA
+- I am happy
+- LOL
+- Lol
+- Lol thats funny
+- Looks nice
+- WOW
+- Wow
+- You are great
+- You're cute.
+- You're nice.
+- You're really cool
+- hAHAHA
+- ha ha
+- haha
+- hahah
+- hahaha
+- happy
+- i am feeling happy
+- i am happy
+- i am happy today
+- i am very happy with your response
+- i love you
+- it's pretty cool
+- lol
+- love you
+- okay Rasabot, you're cool
+- rasa is awesome
+- such a great demo
+- that is funny
+- that was a great interaction
+- thats funny
+- today was a nice day
+- wow
+- you are a badass bot!
+- you are awesome
+- you are cool
+- you are cool man
+- you are doin great
+- you are funny
+- you are great
+- you are my new bestfriend
+- you seem pretty cool :D
+- I like you
+- I love you
+- you are realy intelligent
+
+## intent:telljoke
+- Can you tell a joke?
+- Can you tell me a joke.
+- Come up with a joke you think I'll find funny.
+- Could you please share a joke with me.
+- Could you tell me a joke.
+- Do you have any jokes?
+- Do you know any jokes?
+- Entertain me with a joke.
+- Give me a funny joke.
+- Give me a joke.
+- Give me some comic relief.
+- I need a good joke.
+- I want to hear something funny.
+- Know any jokes?
+- Let's hear a joke from you.
+- Make me laugh.
+- Please tell me a joke.
+- Say something funny.
+- Share a joke with me!
+- Tell joke.
+- Tell me something funny.
+- Tell me something humorous!
+- Tell me something that you think will make me laugh.
+- Tell me the best joke you know.
+- What's a good joke?
+- Will you tell me a joke.
+- Would you share a joke with me.
+- Would you tell me a joke
+- give me a good joke
+- make me laugh with a bad joke
+- make me laugh with a joke
+- say a funny joke
+- say a joke
+- say a joke that's funny
+- say a joke that's so bad it's funny
+- tell me a joke
+- tell me a short joke
+- tell me a story joke
+- tell me something funny, like a joke
+- you can say a jok
+
+## intent:thank
+- Cool. Thanks
+- Great, thanks
+- Thank you
+- Thank you Sara
+- Thank you so much
+- Thank's!
+- Thanks
+- Thanks bot
+- Thanks for that
+- Thanks!
+- amazing, thanks
+- cheers
+- cheers bro
+- cool thank you
+- cool thanks
+- cool, thanks
+- danke
+- great thanks
+- ok thanks
+- ok thanks sara
+- ok thanks!
+- perfect thank you
+- thank u
+- thank you
+- thank you anyways
+- thanks
+- thanks a bunch for everything
+- thanks a lot
+- thanks for forum link, I'll check it out
+- thanks for the help
+- thanks this is great news
+- thanks you
+- thanks!
+- thankyou
+- thnks
+- thx
+- yes thanksS
